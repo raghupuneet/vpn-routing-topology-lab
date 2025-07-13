@@ -1,4 +1,4 @@
-# vpn-routing-topology-lab
+# Vpn-Routing-Topology-Lab
 A Packet Tracer-based lab project demonstrating secure VPN configuration between multiple routers  with dynamic routing (EIGRP) in a hub and spoke topology.
 Project Description:-
 Establish a secure connection between three branch offices using VPN.
