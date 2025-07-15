@@ -4,3 +4,4 @@ Project Description:-
 Establish a secure connection between three branch offices using VPN.
 Allow a remote user (PC or laptop) to connect securely to the office network.
 Integrate a VPN tunnel with dynamic routing protocols(EIGRP).
+I have also used network security policies using Access Control Lists (ACLs). Additionally, NAT (PAT) is configured on the Hub router to enable internal hosts to access external networks securely.
